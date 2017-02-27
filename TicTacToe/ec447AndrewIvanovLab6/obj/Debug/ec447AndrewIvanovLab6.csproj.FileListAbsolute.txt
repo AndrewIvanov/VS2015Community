@@ -1,0 +1,18 @@
+c:\users\andrey\documents\visual studio 2013\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\bin\Debug\ec447AndrewIvanovLab6.exe.config
+c:\users\andrey\documents\visual studio 2013\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\bin\Debug\ec447AndrewIvanovLab6.exe
+c:\users\andrey\documents\visual studio 2013\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\bin\Debug\ec447AndrewIvanovLab6.pdb
+c:\users\andrey\documents\visual studio 2013\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\obj\Debug\ec447AndrewIvanovLab6.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2013\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\obj\Debug\ec447AndrewIvanovLab6.Form1.resources
+c:\users\andrey\documents\visual studio 2013\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\obj\Debug\ec447AndrewIvanovLab6.Properties.Resources.resources
+c:\users\andrey\documents\visual studio 2013\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\obj\Debug\ec447AndrewIvanovLab6.csproj.GenerateResource.Cache
+c:\users\andrey\documents\visual studio 2013\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\obj\Debug\ec447AndrewIvanovLab6.exe
+c:\users\andrey\documents\visual studio 2013\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\obj\Debug\ec447AndrewIvanovLab6.pdb
+E:\Old_PC\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\bin\Debug\ec447AndrewIvanovLab6.exe.config
+E:\Old_PC\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\obj\Debug\ec447AndrewIvanovLab6.exe
+E:\Old_PC\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\obj\Debug\ec447AndrewIvanovLab6.pdb
+E:\Old_PC\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\bin\Debug\ec447AndrewIvanovLab6.exe
+E:\Old_PC\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\bin\Debug\ec447AndrewIvanovLab6.pdb
+E:\Old_PC\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\obj\Debug\ec447AndrewIvanovLab6.csprojResolveAssemblyReference.cache
+E:\Old_PC\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\obj\Debug\ec447AndrewIvanovLab6.Form1.resources
+E:\Old_PC\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\obj\Debug\ec447AndrewIvanovLab6.Properties.Resources.resources
+E:\Old_PC\Projects\ec447AndrewIvanovLab6\ec447AndrewIvanovLab6\obj\Debug\ec447AndrewIvanovLab6.csproj.GenerateResource.Cache
