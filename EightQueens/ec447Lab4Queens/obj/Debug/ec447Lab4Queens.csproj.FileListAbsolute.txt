@@ -1,0 +1,18 @@
+c:\users\andrey\documents\visual studio 2013\Projects\ec447Lab4Queens\ec447Lab4Queens\bin\Debug\ec447Lab4Queens.exe.config
+c:\users\andrey\documents\visual studio 2013\Projects\ec447Lab4Queens\ec447Lab4Queens\bin\Debug\ec447Lab4Queens.exe
+c:\users\andrey\documents\visual studio 2013\Projects\ec447Lab4Queens\ec447Lab4Queens\bin\Debug\ec447Lab4Queens.pdb
+c:\users\andrey\documents\visual studio 2013\Projects\ec447Lab4Queens\ec447Lab4Queens\obj\Debug\ec447Lab4Queens.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2013\Projects\ec447Lab4Queens\ec447Lab4Queens\obj\Debug\ec447Lab4Queens.Form1.resources
+c:\users\andrey\documents\visual studio 2013\Projects\ec447Lab4Queens\ec447Lab4Queens\obj\Debug\ec447Lab4Queens.Properties.Resources.resources
+c:\users\andrey\documents\visual studio 2013\Projects\ec447Lab4Queens\ec447Lab4Queens\obj\Debug\ec447Lab4Queens.csproj.GenerateResource.Cache
+c:\users\andrey\documents\visual studio 2013\Projects\ec447Lab4Queens\ec447Lab4Queens\obj\Debug\ec447Lab4Queens.exe
+c:\users\andrey\documents\visual studio 2013\Projects\ec447Lab4Queens\ec447Lab4Queens\obj\Debug\ec447Lab4Queens.pdb
+E:\Old_PC\Projects\ec447Lab4Queens\ec447Lab4Queens\bin\Debug\ec447Lab4Queens.exe.config
+E:\Old_PC\Projects\ec447Lab4Queens\ec447Lab4Queens\obj\Debug\ec447Lab4Queens.exe
+E:\Old_PC\Projects\ec447Lab4Queens\ec447Lab4Queens\obj\Debug\ec447Lab4Queens.pdb
+E:\Old_PC\Projects\ec447Lab4Queens\ec447Lab4Queens\bin\Debug\ec447Lab4Queens.exe
+E:\Old_PC\Projects\ec447Lab4Queens\ec447Lab4Queens\bin\Debug\ec447Lab4Queens.pdb
+E:\Old_PC\Projects\ec447Lab4Queens\ec447Lab4Queens\obj\Debug\ec447Lab4Queens.csprojResolveAssemblyReference.cache
+E:\Old_PC\Projects\ec447Lab4Queens\ec447Lab4Queens\obj\Debug\ec447Lab4Queens.Form1.resources
+E:\Old_PC\Projects\ec447Lab4Queens\ec447Lab4Queens\obj\Debug\ec447Lab4Queens.Properties.Resources.resources
+E:\Old_PC\Projects\ec447Lab4Queens\ec447Lab4Queens\obj\Debug\ec447Lab4Queens.csproj.GenerateResource.Cache
