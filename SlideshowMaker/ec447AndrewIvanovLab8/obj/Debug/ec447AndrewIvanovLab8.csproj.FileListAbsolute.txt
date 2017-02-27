@@ -1,0 +1,20 @@
+c:\users\andrey\documents\visual studio 2013\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\bin\Debug\ec447AndrewIvanovLab8.exe.config
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\bin\Debug\ec447AndrewIvanovLab8.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\bin\Debug\ec447AndrewIvanovLab8.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.Form1.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.Properties.Resources.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.csproj.GenerateResource.Cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.ShowDialog.resources
+E:\Old_PC\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\bin\Debug\ec447AndrewIvanovLab8.exe.config
+E:\Old_PC\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.exe
+E:\Old_PC\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.pdb
+E:\Old_PC\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\bin\Debug\ec447AndrewIvanovLab8.exe
+E:\Old_PC\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\bin\Debug\ec447AndrewIvanovLab8.pdb
+E:\Old_PC\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.csprojResolveAssemblyReference.cache
+E:\Old_PC\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.Form1.resources
+E:\Old_PC\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.Properties.Resources.resources
+E:\Old_PC\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.ShowDialog.resources
+E:\Old_PC\Projects\ec447AndrewIvanovLab8\ec447AndrewIvanovLab8\obj\Debug\ec447AndrewIvanovLab8.csproj.GenerateResource.Cache
